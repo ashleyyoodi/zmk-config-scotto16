@@ -1,0 +1,6 @@
+if SHIELD_SCOTTO16
+
+config ZMK_SCOTTO16
+    default "scotto16"
+
+endif

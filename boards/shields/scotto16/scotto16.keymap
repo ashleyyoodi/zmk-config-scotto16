@@ -10,7 +10,7 @@
             bindings = <
                 &kp K_VOL_UP    &kp INS         &kp HOME        &kp PG_UP
                 &kp K_VOL_DN    &kp DEL         &kp END         &kp PG_DN
-                &kp K_NEXT      &mo1            &kp UP          &none
+                &kp K_NEXT      &mo 1           &kp UP          &none
                 &kp K_PP        &kp LEFT        &kp DOWN        &kp RIGHT
             >;
         };

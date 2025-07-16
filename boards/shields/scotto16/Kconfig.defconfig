@@ -1,6 +1,6 @@
 if SHIELD_SCOTTO16
 
-config ZMK_SCOTTO16
+config ZMK_KEYBOARD_NAME
     default "scotto16"
 
 endif
